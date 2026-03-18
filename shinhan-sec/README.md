@@ -30,14 +30,14 @@
 금융권 코테에서 가장 자주 나오는 유형. 조건을 그대로 코드로 옮기는 능력이 핵심.  
 엣지케이스(경계값, 예외처리)를 꼼꼼히 처리해야 함.
 
-| 문제번호 | 문제명 | 난이도 | 링크 |
-|---------|--------|--------|------|
-| 14503 | 로봇 청소기 | 골드4 | https://www.acmicpc.net/problem/14503 |
-| 3190 | 뱀 | 골드4 | https://www.acmicpc.net/problem/3190 |
-| 15685 | 드래곤 커브 | 골드5 | https://www.acmicpc.net/problem/15685 |
-| 17144 | 미세먼지 안녕! | 골드4 | https://www.acmicpc.net/problem/17144 |
-| 14891 | 톱니바퀴 | 골드5 | https://www.acmicpc.net/problem/14891 |
-| 11559 | Puyo Puyo | 골드4 | https://www.acmicpc.net/problem/11559 |
+| 완료 | 문제번호 | 문제명 | 난이도 | 링크 |
+|:----:|---------|--------|--------|------|
+| [ ] | 14503 | 로봇 청소기 | 골드4 | https://www.acmicpc.net/problem/14503 |
+| [ ] | 3190 | 뱀 | 골드4 | https://www.acmicpc.net/problem/3190 |
+| [ ] | 15685 | 드래곤 커브 | 골드5 | https://www.acmicpc.net/problem/15685 |
+| [ ] | 17144 | 미세먼지 안녕! | 골드4 | https://www.acmicpc.net/problem/17144 |
+| [ ] | 14891 | 톱니바퀴 | 골드5 | https://www.acmicpc.net/problem/14891 |
+| [ ] | 11559 | Puyo Puyo | 골드4 | https://www.acmicpc.net/problem/11559 |
 
 ---
 
@@ -46,14 +46,14 @@
 2차원 격자 탐색 + 최단경로, 연결 요소 카운팅이 주로 출제됨.  
 BFS는 최단거리, DFS는 경우의 수/백트래킹 조합으로 응용됨.
 
-| 문제번호 | 문제명 | 난이도 | 링크 |
-|---------|--------|--------|------|
-| 2178 | 미로 탐색 | 실버1 | https://www.acmicpc.net/problem/2178 |
-| 7569 | 토마토 (3D) | 골드5 | https://www.acmicpc.net/problem/7569 |
-| 14502 | 연구소 | 골드4 | https://www.acmicpc.net/problem/14502 |
-| 16234 | 인구 이동 | 골드4 | https://www.acmicpc.net/problem/16234 |
-| 13913 | 숨바꼭질 4 | 골드4 | https://www.acmicpc.net/problem/13913 |
-| 1697 | 숨바꼭질 | 실버1 | https://www.acmicpc.net/problem/1697 |
+| 완료 | 문제번호 | 문제명 | 난이도 | 링크 |
+|:----:|---------|--------|--------|------|
+| [ ] | 2178 | 미로 탐색 | 실버1 | https://www.acmicpc.net/problem/2178 |
+| [ ] | 7569 | 토마토 (3D) | 골드5 | https://www.acmicpc.net/problem/7569 |
+| [ ] | 14502 | 연구소 | 골드4 | https://www.acmicpc.net/problem/14502 |
+| [ ] | 16234 | 인구 이동 | 골드4 | https://www.acmicpc.net/problem/16234 |
+| [ ] | 13913 | 숨바꼭질 4 | 골드4 | https://www.acmicpc.net/problem/13913 |
+| [ ] | 1697 | 숨바꼭질 | 실버1 | https://www.acmicpc.net/problem/1697 |
 
 ---
 
@@ -62,14 +62,14 @@ BFS는 최단거리, DFS는 경우의 수/백트래킹 조합으로 응용됨.
 파싱, 분리(split), 비교, 변환 등 기본 문자열 조작이 핵심.  
 금융 데이터 특성상 날짜/숫자 포맷 파싱 유형도 자주 등장함. **1번 문제로 자주 출제.**
 
-| 문제번호 | 문제명 | 난이도 | 링크 |
-|---------|--------|--------|------|
-| 1918 | 후위 표기식 | 골드3 | https://www.acmicpc.net/problem/1918 |
-| 9012 | 괄호 | 실버4 | https://www.acmicpc.net/problem/9012 |
-| 1181 | 단어 정렬 | 실버5 | https://www.acmicpc.net/problem/1181 |
-| 10845 | 큐 | 실버4 | https://www.acmicpc.net/problem/10845 |
-| 17413 | 단어 뒤집기 2 | 실버3 | https://www.acmicpc.net/problem/17413 |
-| 1316 | 그룹 단어 체커 | 실버5 | https://www.acmicpc.net/problem/1316 |
+| 완료 | 문제번호 | 문제명 | 난이도 | 링크 |
+|:----:|---------|--------|--------|------|
+| [ ] | 1918 | 후위 표기식 | 골드3 | https://www.acmicpc.net/problem/1918 |
+| [ ] | 9012 | 괄호 | 실버4 | https://www.acmicpc.net/problem/9012 |
+| [ ] | 1181 | 단어 정렬 | 실버5 | https://www.acmicpc.net/problem/1181 |
+| [ ] | 10845 | 큐 | 실버4 | https://www.acmicpc.net/problem/10845 |
+| [ ] | 17413 | 단어 뒤집기 2 | 실버3 | https://www.acmicpc.net/problem/17413 |
+| [ ] | 1316 | 그룹 단어 체커 | 실버5 | https://www.acmicpc.net/problem/1316 |
 
 ---
 
@@ -78,13 +78,13 @@ BFS는 최단거리, DFS는 경우의 수/백트래킹 조합으로 응용됨.
 정렬 기반 그리디가 주류.  
 "매 순간 최선의 선택" 패턴이 보이면 그리디를 의심할 것. 시간복잡도 주의 (O(N log N) 목표).
 
-| 문제번호 | 문제명 | 난이도 | 링크 |
-|---------|--------|--------|------|
-| 11399 | ATM | 실버3 | https://www.acmicpc.net/problem/11399 |
-| 1931 | 회의실 배정 | 실버1 | https://www.acmicpc.net/problem/1931 |
-| 11047 | 동전 0 | 실버4 | https://www.acmicpc.net/problem/11047 |
-| 2217 | 로프 | 실버4 | https://www.acmicpc.net/problem/2217 |
-| 1080 | 행렬 | 골드5 | https://www.acmicpc.net/problem/1080 |
+| 완료 | 문제번호 | 문제명 | 난이도 | 링크 |
+|:----:|---------|--------|--------|------|
+| [ ] | 11399 | ATM | 실버3 | https://www.acmicpc.net/problem/11399 |
+| [ ] | 1931 | 회의실 배정 | 실버1 | https://www.acmicpc.net/problem/1931 |
+| [ ] | 11047 | 동전 0 | 실버4 | https://www.acmicpc.net/problem/11047 |
+| [ ] | 2217 | 로프 | 실버4 | https://www.acmicpc.net/problem/2217 |
+| [ ] | 1080 | 행렬 | 골드5 | https://www.acmicpc.net/problem/1080 |
 
 ---
 
@@ -93,13 +93,13 @@ BFS는 최단거리, DFS는 경우의 수/백트래킹 조합으로 응용됨.
 입력 범위가 작을 때 완전탐색 가능 여부를 먼저 계산하는 습관이 중요.  
 N ≤ 20이면 브루트포스, N ≤ 10이면 순열/조합 고려.
 
-| 문제번호 | 문제명 | 난이도 | 링크 |
-|---------|--------|--------|------|
-| 15649 | N과 M (1) | 실버3 | https://www.acmicpc.net/problem/15649 |
-| 9663 | N-Queen | 골드4 | https://www.acmicpc.net/problem/9663 |
-| 14888 | 연산자 끼워넣기 | 실버1 | https://www.acmicpc.net/problem/14888 |
-| 14501 | 퇴사 | 실버3 | https://www.acmicpc.net/problem/14501 |
-| 1182 | 부분집합의 합 | 실버2 | https://www.acmicpc.net/problem/1182 |
+| 완료 | 문제번호 | 문제명 | 난이도 | 링크 |
+|:----:|---------|--------|--------|------|
+| [ ] | 15649 | N과 M (1) | 실버3 | https://www.acmicpc.net/problem/15649 |
+| [ ] | 9663 | N-Queen | 골드4 | https://www.acmicpc.net/problem/9663 |
+| [ ] | 14888 | 연산자 끼워넣기 | 실버1 | https://www.acmicpc.net/problem/14888 |
+| [ ] | 14501 | 퇴사 | 실버3 | https://www.acmicpc.net/problem/14501 |
+| [ ] | 1182 | 부분집합의 합 | 실버2 | https://www.acmicpc.net/problem/1182 |
 
 ---
 
@@ -108,14 +108,14 @@ N ≤ 20이면 브루트포스, N ≤ 10이면 순열/조합 고려.
 마지막 문제에 골드 수준 DP가 나올 수 있음.  
 1D DP부터 확실히 잡고, 2D 배낭 문제 정도까지 커버하면 됨. LCS·LIS 같은 고전 유형 필수.
 
-| 문제번호 | 문제명 | 난이도 | 링크 |
-|---------|--------|--------|------|
-| 1003 | 피보나치 함수 | 실버3 | https://www.acmicpc.net/problem/1003 |
-| 1463 | 1로 만들기 | 실버3 | https://www.acmicpc.net/problem/1463 |
-| 12865 | 평범한 배낭 | 골드5 | https://www.acmicpc.net/problem/12865 |
-| 11053 | 가장 긴 증가하는 부분 수열 (LIS) | 실버2 | https://www.acmicpc.net/problem/11053 |
-| 9251 | LCS | 골드5 | https://www.acmicpc.net/problem/9251 |
-| 1932 | 정수 삼각형 | 실버1 | https://www.acmicpc.net/problem/1932 |
+| 완료  | 문제번호 | 문제명 | 난이도 | 링크 |
+|:---:|---------|--------|--------|------|
+| [ ] | 1003 | 피보나치 함수 | 실버3 | https://www.acmicpc.net/problem/1003 |
+| [ ] | 1463 | 1로 만들기 | 실버3 | https://www.acmicpc.net/problem/1463 |
+| [ ] | 12865 | 평범한 배낭 | 골드5 | https://www.acmicpc.net/problem/12865 |
+| [ ] | 11053 | 가장 긴 증가하는 부분 수열 (LIS) | 실버2 | https://www.acmicpc.net/problem/11053 |
+| [ ] | 9251 | LCS | 골드5 | https://www.acmicpc.net/problem/9251 |
+| [ ] | 1932 | 정수 삼각형 | 실버1 | https://www.acmicpc.net/problem/1932 |
 
 ---
 
