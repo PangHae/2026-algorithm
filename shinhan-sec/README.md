@@ -32,8 +32,8 @@
 
 | 완료 | 문제번호 | 문제명 | 난이도 | 링크 |
 |:----:|---------|--------|--------|------|
-| [ ] | 14503 | 로봇 청소기 | 골드4 | https://www.acmicpc.net/problem/14503 |
-| [ ] | 3190 | 뱀 | 골드4 | https://www.acmicpc.net/problem/3190 |
+| [ v ] | 14503 | 로봇 청소기 | 골드4 | https://www.acmicpc.net/problem/14503 |
+| [ v ] | 3190 | 뱀 | 골드4 | https://www.acmicpc.net/problem/3190 |
 | [ ] | 15685 | 드래곤 커브 | 골드5 | https://www.acmicpc.net/problem/15685 |
 | [ ] | 17144 | 미세먼지 안녕! | 골드4 | https://www.acmicpc.net/problem/17144 |
 | [ ] | 14891 | 톱니바퀴 | 골드5 | https://www.acmicpc.net/problem/14891 |
