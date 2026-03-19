@@ -62,14 +62,14 @@ BFS는 최단거리, DFS는 경우의 수/백트래킹 조합으로 응용됨.
 파싱, 분리(split), 비교, 변환 등 기본 문자열 조작이 핵심.  
 금융 데이터 특성상 날짜/숫자 포맷 파싱 유형도 자주 등장함. **1번 문제로 자주 출제.**
 
-| 완료 | 문제번호 | 문제명 | 난이도 | 링크 |
-|:----:|---------|--------|--------|------|
-| [ ] | 1918 | 후위 표기식 | 골드3 | https://www.acmicpc.net/problem/1918 |
-| [ ] | 9012 | 괄호 | 실버4 | https://www.acmicpc.net/problem/9012 |
-| [ ] | 1181 | 단어 정렬 | 실버5 | https://www.acmicpc.net/problem/1181 |
-| [ ] | 10845 | 큐 | 실버4 | https://www.acmicpc.net/problem/10845 |
-| [ ] | 17413 | 단어 뒤집기 2 | 실버3 | https://www.acmicpc.net/problem/17413 |
-| [ ] | 1316 | 그룹 단어 체커 | 실버5 | https://www.acmicpc.net/problem/1316 |
+|  완료   | 문제번호 | 문제명 | 난이도 | 링크 |
+|:-----:|---------|--------|--------|------|
+|  [ ]  | 1918 | 후위 표기식 | 골드3 | https://www.acmicpc.net/problem/1918 |
+| [ v ] | 9012 | 괄호 | 실버4 | https://www.acmicpc.net/problem/9012 |
+|  [ ]  | 1181 | 단어 정렬 | 실버5 | https://www.acmicpc.net/problem/1181 |
+|  [ ]  | 10845 | 큐 | 실버4 | https://www.acmicpc.net/problem/10845 |
+|  [ ]  | 17413 | 단어 뒤집기 2 | 실버3 | https://www.acmicpc.net/problem/17413 |
+|  [ ]  | 1316 | 그룹 단어 체커 | 실버5 | https://www.acmicpc.net/problem/1316 |
 
 ---
 
