@@ -30,14 +30,14 @@
 금융권 코테에서 가장 자주 나오는 유형. 조건을 그대로 코드로 옮기는 능력이 핵심.  
 엣지케이스(경계값, 예외처리)를 꼼꼼히 처리해야 함.
 
-| 완료 | 문제번호 | 문제명 | 난이도 | 링크 |
-|:----:|---------|--------|--------|------|
+|  완료   | 문제번호 | 문제명 | 난이도 | 링크 |
+|:-----:|---------|--------|--------|------|
 | [ v ] | 14503 | 로봇 청소기 | 골드4 | https://www.acmicpc.net/problem/14503 |
 | [ v ] | 3190 | 뱀 | 골드4 | https://www.acmicpc.net/problem/3190 |
-| [ ] | 15685 | 드래곤 커브 | 골드5 | https://www.acmicpc.net/problem/15685 |
-| [ ] | 17144 | 미세먼지 안녕! | 골드4 | https://www.acmicpc.net/problem/17144 |
-| [ ] | 14891 | 톱니바퀴 | 골드5 | https://www.acmicpc.net/problem/14891 |
-| [ ] | 11559 | Puyo Puyo | 골드4 | https://www.acmicpc.net/problem/11559 |
+| [ v ] | 15685 | 드래곤 커브 | 골드5 | https://www.acmicpc.net/problem/15685 |
+| [ v ] | 17144 | 미세먼지 안녕! | 골드4 | https://www.acmicpc.net/problem/17144 |
+|  [ ]  | 14891 | 톱니바퀴 | 골드5 | https://www.acmicpc.net/problem/14891 |
+|  [ ]  | 11559 | Puyo Puyo | 골드4 | https://www.acmicpc.net/problem/11559 |
 
 ---
 
