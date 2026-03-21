@@ -64,7 +64,7 @@ BFS는 최단거리, DFS는 경우의 수/백트래킹 조합으로 응용됨.
 
 |  완료   | 문제번호 | 문제명 | 난이도 | 링크 |
 |:-----:|---------|--------|--------|------|
-|  [ ]  | 1918 | 후위 표기식 | 골드3 | https://www.acmicpc.net/problem/1918 |
+| [ v ] | 1918 | 후위 표기식 | 골드3 | https://www.acmicpc.net/problem/1918 |
 | [ v ] | 9012 | 괄호 | 실버4 | https://www.acmicpc.net/problem/9012 |
 | [ v ] | 1181 | 단어 정렬 | 실버5 | https://www.acmicpc.net/problem/1181 |
 | [ v ] | 10845 | 큐 | 실버4 | https://www.acmicpc.net/problem/10845 |
